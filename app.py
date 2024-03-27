@@ -47,4 +47,3 @@ def run_function_calling():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
